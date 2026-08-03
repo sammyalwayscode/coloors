@@ -131,3 +131,18 @@ header {
     }
   }
 }
+
+.company {
+  background-color: salmon;
+  width: 95%;
+  display: flex;
+  align-items: center;
+  gap: 40px;
+  overflow-x: scroll;
+}
+
+.parentCompany {
+  background-color: #1d4ed8;
+  display: flex;
+  justify-content: center;
+}
